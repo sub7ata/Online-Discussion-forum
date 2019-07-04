@@ -13,11 +13,11 @@ It’s a PHP project named “Online Discussion Forum” is the place where pers
 This project is aimed at developing online form for the group discussion. This is a web-based tool. Any user can post the doubts topics and can reply for the other user doubts. The user can invite others for Discussion and submit query. This is useful for a small office, school or a department or for that matter any group who is interested to organize it effectively. Facility to share the resource and post articles that can be viewed by registered user. 
 
 Functional components of the project 
+
 Following is a list of functionalities of the system. More functionality that you find appropriate can be added to this list. And, in places where the description of functionality is not adequate, you can make appropriate assumptions and proceed. 
 
 
 Features of the system:
-
 
 Following are the requirements, which can be used to derive functional components: 
 1. Users need to register. 
