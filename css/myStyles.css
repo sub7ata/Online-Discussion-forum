@@ -1,0 +1,101 @@
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	}
+
+.about-font{
+    font-family: "Times New Roman";
+    list-style-type: square;
+    color: black;
+    text-align: justify;
+    font-size: 1.2em;
+    margin-bottom: 50px;
+}
+h1{
+    font-family: "Times New Roman";
+}
+
+.heading{
+    font-family: "Times New Roman";
+    list-style-type: square;
+    color: black;
+    text-align: justify;
+    font-size: 4em;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+
+/*table of answer*/
+
+
+#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+/*****************Answer page********************/
+#hov:hover {
+    color: royalblue;
+    font-size: 150px;
+}
+/*#hov :hover{line-height: 20px; font-size: 14px;}*/
+
+
+/*********Button style**********/
+
+#in-button:{
+    position: absolute;
+    opacity: 0;
+    left: 50px;
+    top: 50px;
+    cursor: pointer;
+    border: 1px solid blue;
+    z-index: 100;
+}
+.new{
+    position: relative;
+    left: 53px;
+    top: 40px;
+    background: royalblue;
+    padding: 5px 30px;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.new:hover{
+    background: red;
+}
+
+
+
+
+
+
+
+
