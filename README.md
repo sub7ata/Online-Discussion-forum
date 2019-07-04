@@ -17,7 +17,9 @@ Following is a list of functionalities of the system. More functionality that yo
 
 
 Features of the system:
- Following are the requirements, which can be used to derive functional components: 
+
+
+Following are the requirements, which can be used to derive functional components: 
 1. Users need to register. 
 2. Facility to post topics for the discussion. 
 3. Facility to view the articles by topics 
