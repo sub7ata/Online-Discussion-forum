@@ -23,22 +23,30 @@ Following are the requirements, which can be used to derive functional component
 
 1. User Part
 a) Login, signup and forgot password.
+
 Login: Login module mainly deals with the user login part of the system where user can provide username and password to log in into the system.
+
 Signup: To become a member of the system, user must provide some mandatory information’s and these information’s are handled by signup module.
+
 Forgot password: If any user forgot his/her password, he/she can retrieve the
 password by providing his/her proper email address.
 
 b) Add question, Add answer
 Subject wise questions can be added and answered in this module. 
+
 c) Post query
 User can ask any question to the admin.
+
 d) Search
 This is one of the most important feature of this project. User can search for the question, answer. 
+
 e) Subject 
 Subject wise question can be viewed by this module.
 
 f) Profile
 In this module user can update their account information such as password, image, qualification and address. 
+
+
 
 2. Admin Part
 
