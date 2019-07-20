@@ -41,10 +41,16 @@ f) Profile
 In this module user can update their account information such as password, image, qualification and address. 
 
 2. Admin Part
+
 a) Login, Invitation code generate, Registration, Forgot password, active account.
+
 b) Add subject, Block subject, delete subject.
+
 c) Approve / block questions.
+
 d) Approve / block answers.
+
 e) Approve / block users.
-e) Approve / delete admin request.
+
+f) Approve / delete admin request.
 
