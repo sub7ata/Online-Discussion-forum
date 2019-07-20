@@ -20,9 +20,31 @@ Following is a list of functionalities of the system. More functionality that yo
 Features of the system:
 
 Following are the requirements, which can be used to derive functional components: 
-1. Users need to register. 
-2. Facility to post topics for the discussion. 
-3. Facility to view the articles by topics 
-4. User can view the previous discussion taken place on that day. 
-5. Rate the articles. 
-6. Administrator has privilege to edit user’s profile
+
+1. User Part
+a) Login, signup and forgot password.
+Login: Login module mainly deals with the user login part of the system where user can provide username and password to log in into the system.
+Signup: To become a member of the system, user must provide some mandatory information’s and these information’s are handled by signup module.
+Forgot password: If any user forgot his/her password, he/she can retrieve the
+password by providing his/her proper email address.
+
+b) Add question, Add answer
+Subject wise questions can be added and answered in this module. 
+c) Post query
+User can ask any question to the admin.
+d) Search
+This is one of the most important feature of this project. User can search for the question, answer. 
+e) Subject 
+Subject wise question can be viewed by this module.
+
+f) Profile
+In this module user can update their account information such as password, image, qualification and address. 
+
+2. Admin Part
+a) Login, Invitation code generate, Registration, Forgot password, active account.
+b) Add subject, Block subject, delete subject.
+c) Approve / block questions.
+d) Approve / block answers.
+e) Approve / block users.
+e) Approve / delete admin request.
+
