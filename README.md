@@ -26,9 +26,9 @@ a) Login, signup and forgot password.
 
 - Login: Login module mainly deals with the user login part of the system where user can provide username and password to log in- into the system.
 
-Signup: To become a member of the system, user must provide some mandatory information’s and these information’s are handled by signup module.
+- Signup: To become a member of the system, user must provide some mandatory information’s and these information’s are handled by signup module.
 
-Forgot password: If any user forgot his/her password, he/she can retrieve the
+- Forgot password: If any user forgot his/her password, he/she can retrieve the
 password by providing his/her proper email address.
 
 b) Add question, Add answer
@@ -49,16 +49,10 @@ In this module user can update their account information such as password, image
 
 
 ## 2. Admin Part
-
 a) Login, Invitation code generate, Registration, Forgot password, active account.
-
 b) Add subject, Block subject, delete subject.
-
 c) Approve / block questions.
-
 d) Approve / block answers.
-
 e) Approve / block users.
-
 f) Approve / delete admin request.
 
