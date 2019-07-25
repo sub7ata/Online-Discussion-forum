@@ -1,7 +1,7 @@
 # Online-Discussion-forum
 It's my MCA 5th semester minor project created in PHP.<br />
 
-<p style='text-align: justify;'> The project titled “Online Discuss-forum” is designed using Active Server Pages HTML, CSS, Bootstrap with Java Script, as front end and MySQL, PHP as back end. The coding language used is PHP, JavaScript.</p> <br />
+<p style='text-align: center;'> The project titled “Online Discuss-forum” is designed using Active Server Pages HTML, CSS, Bootstrap with Java Script, as front end and MySQL, PHP as back end. The coding language used is PHP, JavaScript.</p> <br />
 
 <p style='text-align: justify;'> It’s a PHP project named “Online Discussion Forum” is the place where persons after creating their account can share their ideas and make discussions on various topics. It’s a technical discussion form, where users will able to enter questions and get answers on various technical and other topics. For example, the topic can be related to PHP, Java, general knowledge, English, maths, hibernate etc. Each type of questions will be under particular forum. Registered users will be allowed to enter questions, provide answers to the questions, get personal messages to their notification area, make reply to other existing posts etc.</p> <br />
 
