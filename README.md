@@ -33,7 +33,7 @@ password by providing his/her proper email address.</p>
 **f) Profile**
 - In this module user can update their account information such as password, image, qualification and address. 
 
-## 2. Admin Part
+### 2. Admin Part
 **a)** Login, Invitation code generate, Registration, Forgot password, active account.<br />
 **b)** Add subject, Block subject, delete subject.<br />
 **c)** Approve / block questions.<br />
