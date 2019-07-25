@@ -34,10 +34,10 @@ password by providing his/her proper email address.
 - In this module user can update their account information such as password, image, qualification and address. 
 
 ## 2. Admin Part
-a) Login, Invitation code generate, Registration, Forgot password, active account.<br />
-b) Add subject, Block subject, delete subject.<br />
-c) Approve / block questions.<br />
-d) Approve / block answers.<br />
-e) Approve / block users.<br />
-f) Approve / delete admin request.<br />
+**a)** Login, Invitation code generate, Registration, Forgot password, active account.<br />
+**b)** Add subject, Block subject, delete subject.<br />
+**c)** Approve / block questions.<br />
+**d)** Approve / block answers.<br />
+**e)** Approve / block users.<br />
+**f)** Approve / delete admin request.<br />
 
