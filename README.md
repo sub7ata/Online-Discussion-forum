@@ -16,7 +16,7 @@ Following are the requirements, which can be used to derive functional component
 - Login: Login module mainly deals with the user login part of the system where user can provide username and password to log in- into the system.
 - Signup: To become a member of the system, user must provide some mandatory information’s and these information’s are handled by signup module.
 - Forgot password: If any user forgot his/her password, he/she can retrieve the
-password by providing his/her proper email address.
+password by providing his/her proper email address.<br />
 **b) Add question, Add answer**
 - Subject wise questions can be added and answered in this module. 
 **c) Post query**
