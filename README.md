@@ -1,23 +1,22 @@
 # Online-Discussion-forum
-It's my MCA 5th semester minor project created in PHP.
-
 <p align="justify">
+It's my MCA 5th semester minor project created in PHP.
 The project titled “Online Discuss-forum” is designed using Active Server Pages HTML, CSS, Bootstrap with Java Script, as front end and MySQL, PHP as back end. The coding language used is PHP, JavaScript.<br />
 It’s a PHP project named “Online Discussion Forum” is the place where persons after creating their account can share their ideas and make discussions on various topics. It’s a technical discussion form, where users will able to enter questions and get answers on various technical and other topics. For example, the topic can be related to PHP, Java, general knowledge, English, maths, hibernate etc. Each type of questions will be under particular forum. Registered users will be allowed to enter questions, provide answers to the questions, get personal messages to their notification area, make reply to other existing posts etc. <br />
 This project is aimed at developing online form for the group discussion. This is a web-based tool. Any user can post the doubts topics and can reply for the other user doubts. The user can invite others for Discussion and submit query. This is useful for a small office, school or a department or for that matter any group who is interested to organize it effectively. Facility to share the resource and post articles that can be viewed by registered user.</p>
 
 **Functional components of the project**
-<p style='text-align: justify;'> Following is a list of functionalities of the system. More functionality that you find appropriate can be added to this list. And, in places where the description of functionality is not adequate, you can make appropriate assumptions and proceed.</p>
+<p align="justify"> Following is a list of functionalities of the system. More functionality that you find appropriate can be added to this list. And, in places where the description of functionality is not adequate, you can make appropriate assumptions and proceed.</p>
 
 ## Features of the system:
 Following are the requirements, which can be used to derive functional components: 
 
 ### 1. User Part
 **a) Login, signup and forgot password.**
-- **Login:** Login module mainly deals with the user login part of the system where user can provide username and password to log in- into the system.
-- **Signup:** To become a member of the system, user must provide some mandatory information’s and these information’s are handled by signup module.
-- **Forgot password:** If any user forgot his/her password, he/she can retrieve the
-password by providing his/her proper email address.
+- **Login:** <p align="justify">Login module mainly deals with the user login part of the system where user can provide username and password to log in- into the system.</p>
+- **Signup:** <p align="justify">To become a member of the system, user must provide some mandatory information’s and these information’s are handled by signup module.</p>
+- **Forgot password:** <p align="justify">If any user forgot his/her password, he/she can retrieve the
+password by providing his/her proper email address.</p>
 
 **b) Add question, Add answer**
 - Subject wise questions can be added and answered in this module.
