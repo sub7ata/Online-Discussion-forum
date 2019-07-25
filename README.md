@@ -23,20 +23,20 @@ a) Login, signup and forgot password.
 - Forgot password: If any user forgot his/her password, he/she can retrieve the
 password by providing his/her proper email address.
 
-b) Add question, Add answer
-Subject wise questions can be added and answered in this module. 
+**b) Add question, Add answer**
+- Subject wise questions can be added and answered in this module. 
 
-**c) Post query** </ br>
-User can ask any question to the admin.
+**c) Post query**
+- User can ask any question to the admin.
 
-**d) Search** </ br>
-This is one of the most important feature of this project. User can search for the question, answer. 
+**d) Search**
+- This is one of the most important feature of this project. User can search for the question, answer. 
 
-**e) Subject** < /br> 
-Subject wise question can be viewed by this module.
+**e) Subject**
+- Subject wise question can be viewed by this module.
 
-**f) Profile** </br>
-In this module user can update their account information such as password, image, qualification and address. 
+**f) Profile**
+- In this module user can update their account information such as password, image, qualification and address. 
 
 
 
