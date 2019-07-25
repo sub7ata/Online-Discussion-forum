@@ -60,3 +60,4 @@ f) Approve / delete admin request.
 <li>Line 1</li>
 <li>Line 2</li>
 </ul>
+<p style='text-align: justify;'> Your Text </p>
