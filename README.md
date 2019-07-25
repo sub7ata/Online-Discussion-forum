@@ -49,9 +49,9 @@ In this module user can update their account information such as password, image
 
 
 ## 2. Admin Part
-a) Login, Invitation code generate, Registration, Forgot password, active account.
-b) Add subject, Block subject, delete subject.
-c) Approve / block questions.
+a) Login, Invitation code generate, Registration, Forgot password, active account.<br />
+b) Add subject, Block subject, delete subject.<br />
+c) Approve / block questions.<br />
 d) Approve / block answers.
 e) Approve / block users.
 f) Approve / delete admin request.
