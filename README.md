@@ -26,16 +26,16 @@ password by providing his/her proper email address.
 b) Add question, Add answer
 Subject wise questions can be added and answered in this module. 
 
-c) Post query
+**c) Post query** </ br>
 User can ask any question to the admin.
 
-d) Search
+**d) Search** </ br>
 This is one of the most important feature of this project. User can search for the question, answer. 
 
-e) Subject 
+**e) Subject** < /br> 
 Subject wise question can be viewed by this module.
 
-f) Profile
+**f) Profile** </br>
 In this module user can update their account information such as password, image, qualification and address. 
 
 
