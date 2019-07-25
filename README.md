@@ -21,7 +21,7 @@ Features of the system:
 
 Following are the requirements, which can be used to derive functional components: 
 
-# 1. User Part
+## 1. User Part
 a) Login, signup and forgot password.
 
 Login: Login module mainly deals with the user login part of the system where user can provide username and password to log in into the system.
@@ -48,7 +48,7 @@ In this module user can update their account information such as password, image
 
 
 
-# 2. Admin Part
+## 2. Admin Part
 
 a) Login, Invitation code generate, Registration, Forgot password, active account.
 
